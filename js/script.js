@@ -1,0 +1,1 @@
+console.log('Elite Atom Pro loaded');
